@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GDE Android Asia</string>
+    <string name="gde">GDE</string>
+    <string name="photo">Photo</string>
+    <string name="name_gde">Name Gde</string>
+    <string name="description_gde">Description Gde</string>
+    <string name="info">Info</string>
+    <string name="foto_gde">Foto GDE</string>
+    <string name="isrin555dev_gmail_com">isrin555dev@gmail.com</string>
+    <string name="muhammad_isrim_yb">Muhammad Isrim Yb</string>
+    <string name="detail_gde">Detail GDE</string>
+    <string name="back_arow">Back Arow</string>
+    <string name="about_me">About Me</string>
+</resources>
